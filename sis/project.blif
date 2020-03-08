@@ -1,0 +1,12 @@
+.model try.blif
+.inputs e b d
+.outputs h
+.names e b d h
+011 1
+1-- 1
+.exdc
+.inputs e b d
+.outputs h
+.names e b d h
+00- 1
+.end
